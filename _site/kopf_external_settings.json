@@ -1,4 +1,5 @@
 {
+    "location": "http://localhost:9200",
     "elasticsearch_root_path": "",
     "with_credentials": false,
     "theme": "dark",
